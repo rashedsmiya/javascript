@@ -34,3 +34,27 @@
 
 // console.log(typeof anotherId);
 
+// **************************
+
+// Stack (Primitive), Heap (Non-Prinitive)
+
+let myYoutubename = "hiteshchuduri@gmail.com"
+
+let anothername = myYoutubename 
+anothername = "chaiaurcode"
+
+
+console.log(anothername);
+console.log(anothername);
+
+let user = {
+   email: "user@google.com",
+   upi: "user@bl"
+}
+
+let userTwo = userOne 
+
+userTwo.email = "hitesh@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
