@@ -1,3 +1,1 @@
-<h1>Hi world</h1>
-<h1>Hellowsi world</h1>
-<h1>Hellowsi world</h1>
+console.log(9*9);
