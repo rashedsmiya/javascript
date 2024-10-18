@@ -42,3 +42,38 @@
 // 2. String 
 // let name = 'Rakesh';
 
+// 3. Boolean 
+// true / false 
+// let isLoggedIn = false 
+// let hasPeremission = false;
+
+// 4. undefined 
+// let age;
+// console.log(age);
+// 5. Bigint 
+// 6. Symbol
+// Unique
+
+// 2. Structural type 
+// 1. Object 
+
+   // 1.1 Function 
+   // Non-data structure
+   // callable
+   // 1.2 Arrays
+   // collection of values
+   // const number = [2,3,4, "js", 'Python', {name: 'Rajesh'}];
+   // 1.3 Maps
+
+   // var x = "Y";
+   // x = 34; number
+   // x = true; Boolean
+   // x = undefined 
+   // var z; undefined
+
+   // x = ["HTML","CSS","JS"];
+
+   // x = {
+   //    name : "yahoo Baba",
+   //    country : "India"
+   // }
