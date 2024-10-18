@@ -11,12 +11,17 @@
 // '33abc' => Nan
 // true => 1; false => 0
 
-let isLoggedIn = ""
+// let isLoggedIn = ""
 
-let booleanIsLoggdIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggdIn);
+// let booleanIsLoggdIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggdIn);
 
 // 1 => true
 // 0 => false 
 // "" => false 
 // "hitesh" => true
+
+// let someNumber = 33
+// let stringNumber = String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber); 
