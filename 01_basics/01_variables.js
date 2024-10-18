@@ -35,4 +35,32 @@
 // }
 // console.log(age); 
 
+// const name = 30;
 
+// Hoisting
+
+// console.log(greeting);
+// let greeting = 'Hello';
+
+// undefined
+
+// const num = 40;
+
+// // num = 30; // Not changing valu
+
+// console.log(num);
+
+const accountId = 144455
+let accountEmail = "info@gmail.com"
+var accountPassword = "123456"
+accountCity = "Dhaka"
+
+// accountId = 2 not allowed
+
+accountEmail = "hc@hc.com"
+accountPassword = "212121"
+accountCity = "Bangladesh"
+
+console.log(accountId);
+
+console.log([accountId, accountEmail, accountPassword, accountCity]);
