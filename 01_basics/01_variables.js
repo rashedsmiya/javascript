@@ -65,4 +65,4 @@ console.log(accountId);
 Prefer not to use var 
 because of issue in block scop and functional scope
 */
-console.log([accountId, accountEmail, accountPassword, accountCity,accountState]);
+console.log([accountId, accountEmail, accountPassword, accountCity, accountState]);
