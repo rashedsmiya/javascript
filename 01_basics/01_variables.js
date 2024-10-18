@@ -54,13 +54,15 @@ const accountId = 144455
 let accountEmail = "info@gmail.com"
 var accountPassword = "123456"
 accountCity = "Dhaka"
+let accountState;
 
 // accountId = 2 not allowed
-
-accountEmail = "hc@hc.com"
+accountEmail = "hc@hc.com"  
 accountPassword = "212121"
-accountCity = "Bangladesh"
-
+accountCity = "Bangladesh" 
 console.log(accountId);
-
-console.log([accountId, accountEmail, accountPassword, accountCity]);
+/*
+Prefer not to use var 
+because of issue in block scop and functional scope
+*/
+console.log([accountId, accountEmail, accountPassword, accountCity,accountState]);
