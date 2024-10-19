@@ -64,3 +64,13 @@ const dc_heros = ["superman", "flash", "batman"]
 
 // console.log(Array.of(score1,score2,score3));
 
+let arr = [1,2,3,4,5,6]
+      // index 0,1,3,4,5
+console.log(arr);      
+console.log(arr.length);      
+
+
+arr[0] =  5666;
+console.log(arr[0]);      
+console.log(arr[2]);      
+console.log(arr[4]);      
