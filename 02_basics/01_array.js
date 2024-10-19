@@ -36,8 +36,8 @@
 // selectedColor[2] = 1;
 // console.log(selectedColor.length);
 
-const marvel_heros = ["thor", "Ironman", "spiderman"]
-const dc_heros = ["superman", "flash", "batman"]
+// const marvel_heros = ["thor", "Ironman", "spiderman"]
+// const dc_heros = ["superman", "flash", "batman"]
 
 // marvel_heros.push(dc_heros)
 // console.log(marvel_heros[3][1]) 
@@ -64,13 +64,16 @@ const dc_heros = ["superman", "flash", "batman"]
 
 // console.log(Array.of(score1,score2,score3));
 
-let arr = [1,2,3,4,5,6]
+// let arr = [1,2,3,4,5,6]
       // index 0,1,3,4,5
-console.log(arr);      
-console.log(arr.length);      
+
+// arr[0] =  5666;
+// console.log(arr);      
+// console.log(arr, typeof arr)
+// console.log(arr.length);      
 
 
-arr[0] =  5666;
-console.log(arr[0]);      
-console.log(arr[2]);      
-console.log(arr[4]);      
+// console.log(arr[0]);      
+// console.log(arr[2]);      
+// console.log(arr[4]);      
+
