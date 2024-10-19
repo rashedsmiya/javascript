@@ -34,3 +34,19 @@
 
 // Math.random(Math.floor(Math.random() * (max - min + 1)) + min);
 
+// var a = Math.ceil(12.46);
+
+// var a = Math.floor(-2.10);
+
+// var a = Math.round(2.49);
+// var a = Math.trunc(8.19);
+// var a = Math.max(8,20,50,30,3);
+// var a = Math.min(8,20,50,30,3);
+// var a = Math.max(-28, -3);
+// var a = Math.sqrt(25);
+// var a = Math.cbrt(215);
+// var a = Math.pow(3,2);
+// var a = Math.floor(Math.random() * 10) + 1;
+// var a = Math.abs(3+4);
+// var a = Math.PI;
+// console.log(a);
