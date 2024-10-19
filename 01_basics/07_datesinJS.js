@@ -40,3 +40,18 @@
 // newDate.setMinutes(29); 
 // console.log(newDate);
 
+// var now = new Date();
+// console.log(now.getFullYear());
+// console.log(now.getMonth());
+// console.log(now.getDay());
+// console.log(now.getMonth()); 
+// console.log(now.getHours()); 
+// console.log(now.getSeconds()); 
+// console.log(now.getMilliseconds()); 
+
+// now.setFullYear(2020);
+// now.setHours(14);
+
+
+// console.log(now.getDate() + "/" + now.getMonth() + "/" + now.getFullYear());
+
